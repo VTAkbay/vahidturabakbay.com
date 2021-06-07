@@ -1,16 +1,15 @@
-<footer class="site-footer">
-  <div class="inner">
-    {{ with .Site.Params.copyright }}
-      <section class="copyright">{{ . | markdownify }}</section>{{ end }}
+<footer class="footer">
+    <div class="copyright">
+        &copy;
+        {{ with .Site.Params.since }}
+        <span itemprop="copyrightYear">{{.}} - {{ now.Year }}</span>
+        {{ end }}
+         {{ if .Site.Params.author }}
+            <span class="author" itemprop="copyrightHolder"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.author  }}</a> | </span>
+         {{ end }}
 
-
-    <section>{{ echoParam .Site.Params "hidebyline" }}</section>
-    {{ if ne .Site.Params.hidedesignbyline true }}
-      <section>
-        <a href="https://themes.gohugo.io/hugo-scroll/">Design</a> template
-        built with ♥️ by
-        <a href="https://www.janraasch.com" title="Jan Raasch">Jan Raasch</a>
-      </section>{{ end }}
-
-  </div>
+		  <span>Crafted with ❤️ by <a href="https://github.com/Fastbyte01/KeepIt" target="_blank" rel="external nofollow noopener noreffer">KeepIt</a> & <a href="https://gohugo.io/" target="_blank" rel="external nofollow noopener noreffer">Hugo</a></span>
+    </div>
 </footer>
+
+{{ partial "js.html" . }}
