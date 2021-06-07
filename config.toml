@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://vahidturabakbay.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
+title = "VTA"
 theme = "keep-it"
 
 paginate = 12
@@ -40,9 +40,9 @@ disqusShortname = "yourdiscussshortname"
     weight = 4
 
 [params]
-    since = 2012
-    author = "Fastbyte01"               # Author's name
-    subtitle = "A Hugo theme"       # Subtitle
+    since = 2021
+    author = "VTAkbay"               # Author's name
+    subtitle = "Developer"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
@@ -66,14 +66,14 @@ disqusShortname = "yourdiscussshortname"
 
 
 [params.social]
-    GitHub = "xxxx"
-    Linkedin = "xxxx"
-    Twitter = "xxxx"
+    GitHub = "VTAkbay"
+    Linkedin = "vahid-turab-akbay"
+    Twitter = "TurabAkbay"
     #Instagram = "xxxx"
-    #Email   = "xxxx"
-    Facebook = "xxxx"
+    Email   = "vta@vahidturabakbay.com"
+    #Facebook = "xxxx"
     #Telegram = "xxxx"
-    #Medium = "xxxx"
+    Medium = "@vtakbay"
     #Gitlab = "xxxx"
     #Youtubelegacy = "xxxx"
     #Youtubecustom = "xxxx"
@@ -141,10 +141,10 @@ Linkedin = true
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-  name = "Fastbyte01"
+  name = "VTAkbay"
 
   [params.publisher]
-    name = "Fastbyte01"
+    name = "VTAkbay"
 
     [params.publisher.logo]
       url = "logo.png"
