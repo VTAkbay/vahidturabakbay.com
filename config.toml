@@ -1,7 +1,7 @@
 baseURL = "https://vahidturabakbay.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "VTA"
+title = "Vahid Turab AKBAY"
 theme = "keep-it"
 
 paginate = 12
@@ -24,15 +24,15 @@ disqusShortname = "yourdiscussshortname"
  posts = "/:year/:filename/"
 
 [menu]
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 1
+  # [[menu.main]]
+  #   name = "Blog"
+  #   url = "/posts/"
+  #   weight = 1
 
-  [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
+  # [[menu.main]]
+  #   name = "Categories"
+  #   url = "/categories/"
+  #   weight = 3
 
   [[menu.main]]
     name = "About"
@@ -42,7 +42,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2021
     author = "VTAkbay"               # Author's name
-    subtitle = "Developer"       # Subtitle
+    subtitle = "Hanging out with codes."       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
     dateFormatToUse = "" # set date format, default "2 January 2006"
