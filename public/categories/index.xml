@@ -1,39 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on VTA</title>
+    <title>Categories on Vahid Turab AKBAY</title>
     <link>https://vahidturabakbay.com/categories/</link>
-    <description>Recent content in Categories on VTA</description>
+    <description>Recent content in Categories on Vahid Turab AKBAY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://vahidturabakbay.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Development</title>
-      <link>https://vahidturabakbay.com/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://vahidturabakbay.com/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://vahidturabakbay.com/categories/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://vahidturabakbay.com/categories/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://vahidturabakbay.com/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://vahidturabakbay.com/categories/golang/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://vahidturabakbay.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uncategorized</title>
       <link>https://vahidturabakbay.com/categories/uncategorized/</link>

@@ -1,17 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VTA on VTA</title>
+    <title>Vahid Turab AKBAY on Vahid Turab AKBAY</title>
     <link>https://vahidturabakbay.com/</link>
-    <description>Recent content in VTA on VTA</description>
+    <description>Recent content in Vahid Turab AKBAY on Vahid Turab AKBAY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vahidturabakbay.com/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Posts</title>
       <link>https://vahidturabakbay.com/posts/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://vahidturabakbay.com/posts/</guid>
       <description></description>
@@ -23,7 +23,8 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://vahidturabakbay.com/about/</guid>
-      <description>&lt;p&gt;I am Turab, which is &lt;strong&gt;one of lover Ethereum!&lt;/strong&gt;. Developer of Blockchain.&lt;/p&gt;
+      <description>&lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;I am Turab, which is &lt;strong&gt;one of lover Ethereum!&lt;/strong&gt;. Loves coding, have few certificates about blockchain and programming. Almost every seconds learning something and searching.&lt;/p&gt;
 </description>
     </item>
     
