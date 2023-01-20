@@ -8,12 +8,8 @@ aliases = ["about","about-me","contact","vahid","turab","akbay","developer","ful
 
 Hi,
 
-I am **Turab** and 22 years old.
+I am **Turab**, a highly motivated and experienced **Full Stack Web3 developer with a strong background in Computer Science**. I am currently pursuing my Bachelor's degree in Computer Science at the University of The People, where I am gaining a deeper understanding of the latest technologies and trends in the field.
 
-For the past almost 2 years, I have been worked as a **Full Stack Web & Web3 developer**.
+For the past two years, I have been working as a Full Stack Web3 developer, utilizing my skills and knowledge to deliver high-quality projects for clients. I have **completed a certificate program** from the University at Buffalo Online through Coursera.org, which has provided me with a solid foundation in web3 development. Additionally, I have received certificates from Coursera that have further enhanced my skills in the field.
 
-I have background in **web3** development, with certificate from University at Buffalo Online through Coursera.org. What really got me into the field, though, is the certificates I got from Coursera.
-
-Throughout my career, I can say absolutely that I have always that I learn **fast** and do **regular** work. Specially with good teammates.
-
-Moving forward, I hope to expand my experience with different projects.
+Throughout my career, I have consistently demonstrated my ability to learn quickly, adapt to new technologies and consistently perform well on projects. I am eager to continue expanding my experience with a variety of projects and stay at the forefront of the **Web3** development field.
